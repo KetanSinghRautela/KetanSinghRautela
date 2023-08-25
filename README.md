@@ -3,7 +3,7 @@
 </p></p>
 <h1 align="center">Hi 👋, I'm Ketan Singh Rautela</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.displate.com/857x1200/displate/2020-06-01/5fe70fb0142882e9c65a4d3a4665fd2f_784be23ff26ae96b0f065bfc65222986.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/13/5a/9f/135a9f00de2789dee789143de5505139.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansinghrautela&label=Profile%20views&color=0e75b6&style=flat" alt="ketansinghrautela" /> </p>
 
