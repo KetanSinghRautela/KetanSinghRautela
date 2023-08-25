@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center"><p align="center">
   <img src="https://i.pinimg.com/736x/e7/37/f2/e737f24d2e8b3297cef30540bce8bd53.jpg"/>
-</p>
+</p></p>
 <h1 align="center">Hi 👋, I'm Ketan Singh Rautela</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.displate.com/857x1200/displate/2020-06-01/5fe70fb0142882e9c65a4d3a4665fd2f_784be23ff26ae96b0f065bfc65222986.jpg">
