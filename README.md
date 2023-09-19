@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **ketan4power@gmail.com**
+- 📫 How to reach me **ketanrautela29@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1I3eqySikvrLYwWmcpR1MTcyqLpYCmD3R/view?usp=drive_link](https://drive.google.com/file/d/1I3eqySikvrLYwWmcpR1MTcyqLpYCmD3R/view?usp=drive_link)
 
