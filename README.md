@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Codes,Projects,Hardware,Software**
 
 - 📫 How to reach me **ketanrautela29@gmail.com**
 
