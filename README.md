@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ketanrautela29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I3eqySikvrLYwWmcpR1MTcyqLpYCmD3R/view?usp=drive_link](https://drive.google.com/file/d/1RboOdhhl3mQkOpOP0I3bDdlKTiMAjaHE/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I3eqySikvrLYwWmcpR1MTcyqLpYCmD3R/view?usp=drive_link](https://drive.google.com/file/d/1qLgwFQZ_F8IE66tCFP3rEu_keoP62uZI/view?usp=share_link)
 
 - ⚡ Fun fact **I have a good sense of humour.**
 
