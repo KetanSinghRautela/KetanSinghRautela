@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1I3eqySikvrLYwWmcpR1MTcyqLpYCmD3R/view?usp=drive_link](https://drive.google.com/file/d/1qLgwFQZ_F8IE66tCFP3rEu_keoP62uZI/view?usp=share_link)
 
-- ⚡ Fun fact **I have a good sense of humour.**
+- ⚡ Fun fact **I have a Binary Brain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
