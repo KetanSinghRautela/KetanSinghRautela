@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/_magicle_mutes_" target="blank"><img src="https://img.shields.io/twitter/follow/_magicle_mutes_?logo=twitter&style=for-the-badge" alt="_magicle_mutes_" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **Machine Learning**
 
 - 💬 Ask me about **Codes,Projects,Hardware,Software**
 
 - 📫 How to reach me **ketanrautela29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I3eqySikvrLYwWmcpR1MTcyqLpYCmD3R/view?usp=drive_link](https://drive.google.com/file/d/1qLgwFQZ_F8IE66tCFP3rEu_keoP62uZI/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I3eqySikvrLYwWmcpR1MTcyqLpYCmD3R/view?usp=drive_link](https://drive.google.com/file/d/1RDOBOQqNiyrH_J02Gb57Ou3lbAVBpSOA/view?usp=share_link)
 
 - ⚡ Fun fact **I have a Binary Brain.**
 
