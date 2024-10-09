@@ -1,5 +1,5 @@
 <p align="center"><p align="center">
-  <img src="https://i.pinimg.com/736x/e7/37/f2/e737f24d2e8b3297cef30540bce8bd53.jpg"/>
+ 
 </p></p>
 <h1 align="center">Hi 👋, I'm Ketan Singh Rautela</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
