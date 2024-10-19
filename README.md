@@ -2,7 +2,7 @@
  
 </p></p>
 <h1 align="center">Hi 👋, I'm Ketan Singh Rautela</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">An aspiring tech enthusiast from India on a journey of exploration.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/13/5a/9f/135a9f00de2789dee789143de5505139.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansinghrautela&label=Profile%20views&color=0e75b6&style=flat" alt="ketansinghrautela" /> </p>
