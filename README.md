@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working on **Machine Learning**
 
-- 💬 Ask me about **Codes,Projects,Hardware,Software**
+- 💬 Ask me about **Logics and Projects **
 
 - 📫 How to reach me **ketanrautela29@gmail.com**
 
